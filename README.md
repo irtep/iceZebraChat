@@ -1,2 +1,1 @@
-# iceZebraChat
-Chat system project, including server, ui and admin sites
+Helped for my customer care work
